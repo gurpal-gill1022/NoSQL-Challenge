@@ -1,11 +1,11 @@
 # NoSQL-Challenge
 
-# Project Description
+## Project Description
 
 Background:
 The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. You've been contracted by the editors of a food magazine, Eat Safe, Love, to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles.
 
-# Questions for Analysis:
+## Questions for Analysis:
 
 Database and Jupyter Notebook Set Up
 
@@ -56,9 +56,17 @@ Exploratory Analysis
 
 4. How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.
 
-# Files
+## Files
 1. Resources folder that contains the establishments.json file
 
 2. NoSQL_setup_starter Jupyter Notebook file
 
 3. NoSQL_analysis_starter Jupyter Notebook file
+
+## Dependencies
+1. pymongo
+2. pprint
+
+## Programs/Languages
+1. Python
+2. Jupyter Notebook
